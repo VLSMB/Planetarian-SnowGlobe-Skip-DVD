@@ -2,7 +2,7 @@
 在不对SiglusEngine进行任何修改的情况下跨过Planetarian SnowGlobe的DVD验证
 
 # 使用方法：
-直接把version.dll与SiglusEngine.exe放在一起就可以了
+直接把version.dll与SiglusEngine.exe放在一起就可以了（使用的version.dll来自Windows 10）或者将HookDll.dll写入SiglusEngine.exe的导入表中。
 
 # 代码思路(dllmain.cpp)
 Hook点：kernel32.dll的InterlockedDecrement
