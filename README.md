@@ -1,0 +1,2 @@
+# Planetarian-SnowGlobe-Skip-DVD
+在不对SiglusEngine进行任何修改的情况下跨过Planetarian SnowGlobe的DVD验证
